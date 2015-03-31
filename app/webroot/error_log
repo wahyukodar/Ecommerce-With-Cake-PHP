@@ -1,0 +1,8 @@
+[20-Jan-2015 05:55:07 America/New_York] PHP Fatal error:  Can't use method return value in write context in /home/gtpcom/public_html/cake/app/Controller/AppController.php on line 34
+[20-Jan-2015 05:56:01 America/New_York] PHP Fatal error:  Can't use method return value in write context in /home/gtpcom/public_html/cake/app/Controller/AppController.php on line 34
+[20-Jan-2015 05:57:06 America/New_York] PHP Fatal error:  Can't use method return value in write context in /home/gtpcom/public_html/cake/app/Controller/AppController.php on line 34
+[20-Jan-2015 06:03:04 America/New_York] PHP Fatal error:  Can't use method return value in write context in /home/gtpcom/public_html/cake/app/Controller/AppController.php on line 34
+[20-Jan-2015 06:03:05 America/New_York] PHP Fatal error:  Can't use method return value in write context in /home/gtpcom/public_html/cake/app/Controller/AppController.php on line 34
+[20-Jan-2015 06:03:09 America/New_York] PHP Fatal error:  Can't use method return value in write context in /home/gtpcom/public_html/cake/app/Controller/AppController.php on line 34
+[20-Jan-2015 06:03:12 America/New_York] PHP Fatal error:  Can't use method return value in write context in /home/gtpcom/public_html/cake/app/Controller/AppController.php on line 34
+[20-Jan-2015 06:03:17 America/New_York] PHP Fatal error:  Can't use method return value in write context in /home/gtpcom/public_html/cake/app/Controller/AppController.php on line 34

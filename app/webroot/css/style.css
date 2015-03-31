@@ -1,0 +1,39 @@
+#content{
+    padding:10px;
+}
+span{
+    padding:5px;
+}
+input,select{
+    width:100%;
+    padding:10px;
+}
+#content div{
+    margin-top:15px;
+}
+#list_all{
+    float:right;
+}
+#clearer{
+    clear:both;
+}
+.actions a,.actions a:hover{
+    background:#244377;
+    padding:5px;
+    margin:5px;
+    color:#fff;
+}
+.actions .delete,.actions .delete:hover {
+    background:#872334;
+    padding:5px;
+    margin:5px;
+    color:#fff;
+}
+tr:nth-child(odd){
+	background-color:#eee;
+}
+
+tr:nth-child(even){
+	background-color:#fff;
+}
+
