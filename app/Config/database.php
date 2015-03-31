@@ -63,9 +63,9 @@ class DATABASE_CONFIG {
 		'datasource' => 'Database/Mysql',
 		'persistent' => false,
 		'host' => 'localhost',
-		'login' => 'gtpcom',
-		'password' => 'D1rg4h4yu',
-		'database' => 'gtpcom_cake',
+		'login' => 'root',
+		'password' => '',
+		'database' => 'databasecake',
 		'prefix' => '',
 		//'encoding' => 'utf8',
 	);
